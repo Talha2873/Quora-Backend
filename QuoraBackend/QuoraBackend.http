@@ -1,0 +1,6 @@
+@QuoraBackend_HostAddress = http://localhost:5132
+
+GET {{QuoraBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

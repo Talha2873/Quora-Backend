@@ -1,0 +1,41 @@
+﻿using QuoraBackend.Data;
+using QuoraBackend.Models;
+
+public static class DbSeeder
+{
+    public static void Seed(AppDbContext context)
+    {
+        if (!context.Users.Any())
+        {
+            var users = new List<User>();
+
+            for (int i = 1; i <= 20; i++)
+            {
+                users.Add(new User
+                {
+                    Name = $"User {i}",
+                    Username = $"user{i}",
+                    Avatar = $"https://i.pravatar.cc/150?img={i}"
+                });
+            }
+
+            context.Users.AddRange(users);
+            context.SaveChanges();
+        }
+
+        if (!context.Follows.Any())
+        {
+            // User 1 follows 10 users
+            for (int i = 2; i <= 11; i++)
+            {
+                context.Follows.Add(new Follow
+                {
+                    FollowerId = 1,
+                    FollowingId = i
+                });
+            }
+
+            context.SaveChanges();
+        }
+    }
+}

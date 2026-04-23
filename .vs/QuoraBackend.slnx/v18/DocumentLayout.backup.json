@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\migrations\\20260419191134_addquestiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\migrations\\20260419191134_addquestiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\controllers\\feedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\controllers\\feedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\migrations\\20260422182855_fixrelationsandusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\migrations\\20260422182855_fixrelationsandusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\data\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\data\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\controllers\\followcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\controllers\\followcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\migrations\\20260421183857_addfollowtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\migrations\\20260421183857_addfollowtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\migrations\\20260422160348_addimageandusertoquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\migrations\\20260422160348_addimageandusertoquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\migrations\\20260417175749_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\migrations\\20260417175749_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\quorabackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\quorabackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\migrations\\20260421165027_updatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\migrations\\20260421165027_updatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|c:\\users\\user\\desktop\\quora\\backend\\quorabackend\\quorabackend\\migrations\\20260422175453_fixmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7F09E-8C94-1D0D-D1D2-036CEE66A105}|QuoraBackend\\QuoraBackend.csproj|solutionrelative:quorabackend\\migrations\\20260422175453_fixmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FeedController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Controllers\\FeedController.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Controllers\\FeedController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Controllers\\FeedController.cs",
+              "RelativeToolTip": "QuoraBackend\\Controllers\\FeedController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:00:14.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Controllers\\QuestionController.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Controllers\\QuestionController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Controllers\\QuestionController.cs",
+              "RelativeToolTip": "QuoraBackend\\Controllers\\QuestionController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBAwKkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:03:15.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Models\\User.cs",
+              "RelativeToolTip": "QuoraBackend\\Models\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:04:52.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260419191134_AddQuestionTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Migrations\\20260419191134_AddQuestionTable.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Migrations\\20260419191134_AddQuestionTable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Migrations\\20260419191134_AddQuestionTable.cs",
+              "RelativeToolTip": "QuoraBackend\\Migrations\\20260419191134_AddQuestionTable.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:11:34.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Models\\Question.cs",
+              "RelativeToolTip": "QuoraBackend\\Models\\Question.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBAwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:21:47.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FollowController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Controllers\\FollowController.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Controllers\\FollowController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Controllers\\FollowController.cs",
+              "RelativeToolTip": "QuoraBackend\\Controllers\\FollowController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:49:52.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Models\\Follow.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Models\\Follow.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Models\\Follow.cs",
+              "RelativeToolTip": "QuoraBackend\\Models\\Follow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:50:39.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260422182855_FixRelationsAndUsers.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Migrations\\20260422182855_FixRelationsAndUsers.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Migrations\\20260422182855_FixRelationsAndUsers.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Migrations\\20260422182855_FixRelationsAndUsers.cs",
+              "RelativeToolTip": "QuoraBackend\\Migrations\\20260422182855_FixRelationsAndUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T18:28:55.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Data\\AddDbContext.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Data\\AddDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Data\\AddDbContext.cs",
+              "RelativeToolTip": "QuoraBackend\\Data\\AddDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA3wBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:06:47.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Program.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Program.cs",
+              "RelativeToolTip": "QuoraBackend\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:14:08.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260422175453_FixModels.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Migrations\\20260422175453_FixModels.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Migrations\\20260422175453_FixModels.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Migrations\\20260422175453_FixModels.cs",
+              "RelativeToolTip": "QuoraBackend\\Migrations\\20260422175453_FixModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:54:53.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260421183857_AddFollowTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Migrations\\20260421183857_AddFollowTable.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Migrations\\20260421183857_AddFollowTable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Migrations\\20260421183857_AddFollowTable.cs",
+              "RelativeToolTip": "QuoraBackend\\Migrations\\20260421183857_AddFollowTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:38:58.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260422160348_AddImageAndUserToQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Migrations\\20260422160348_AddImageAndUserToQuestion.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Migrations\\20260422160348_AddImageAndUserToQuestion.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Migrations\\20260422160348_AddImageAndUserToQuestion.cs",
+              "RelativeToolTip": "QuoraBackend\\Migrations\\20260422160348_AddImageAndUserToQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:03:48.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260417175749_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Migrations\\20260417175749_InitialCreate.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Migrations\\20260417175749_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Migrations\\20260417175749_InitialCreate.cs",
+              "RelativeToolTip": "QuoraBackend\\Migrations\\20260417175749_InitialCreate.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:57:51.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "QuoraBackend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:45:27.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "QuoraBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:16:44.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260421165027_UpdateModels.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Migrations\\20260421165027_UpdateModels.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Migrations\\20260421165027_UpdateModels.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Migrations\\20260421165027_UpdateModels.cs",
+              "RelativeToolTip": "QuoraBackend\\Migrations\\20260421165027_UpdateModels.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:50:28.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "QuoraBackend\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:40:22.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VoteController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Controllers\\VoteController.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Controllers\\VoteController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Controllers\\VoteController.cs",
+              "RelativeToolTip": "QuoraBackend\\Controllers\\VoteController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAawDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:56:48.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Vote.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Models\\Vote.cs",
+              "RelativeDocumentMoniker": "QuoraBackend\\Models\\Vote.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\Models\\Vote.cs",
+              "RelativeToolTip": "QuoraBackend\\Models\\Vote.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:53:00.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "QuoraBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\appsettings.json",
+              "RelativeToolTip": "QuoraBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T19:15:11.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuoraBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\QuoraBackend.csproj",
+              "RelativeDocumentMoniker": "QuoraBackend\\QuoraBackend.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Quora\\Backend\\QuoraBackend\\QuoraBackend\\QuoraBackend.csproj",
+              "RelativeToolTip": "QuoraBackend\\QuoraBackend.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-16T19:02:20.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
